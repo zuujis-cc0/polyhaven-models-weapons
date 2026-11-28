@@ -1,5 +1,19 @@
 {
- "assets": {},
+ "assets": {
+  "antique_estoc": "94a121852cda667882e2a287dbda377b06652134",
+  "antique_katana_01": "0dfd31f5d7a964c579c45d90e450d8942d7a5599",
+  "bolt_action_rifle_7_62": "151d4108d40bfd38a062ac462e8b4ad7e3df2e98",
+  "cannon_01": "a77ed3ae7c896f6480082c7c94ab1b47128a9cf8",
+  "fish_knife": "951440e825e223bfa94c128370cb28de3112ab97",
+  "kite_shield": "4ab42d2666ed24a7e420e0950bf1d148666fa6ba",
+  "machete": "54da902ed97f1b9fd21636d1b5b7efb1c5de9593",
+  "ornate_medieval_dagger": "5fa56d3ccae0c486f4c087620f6950ba62195dc5",
+  "ornate_medieval_mace": "5c5c324bc81152705758c5112d8e6b1626b3f805",
+  "ornate_war_hammer": "8946860312a5770021713e08fc38156fc40c9d53",
+  "service_pistol": "86bdbd0d905e64817287588732c07588b09b980e",
+  "stick_grenade": "5b8bdc3da716087c7e5c066c4e11184f07777f13",
+  "wooden_handle_saber": "a863c9b369ecbbacd939e3db2359d46729014f81"
+ },
  "license": "https://polyhaven.com/license",
  "site": "https://polyhaven.com",
  "source": "polyhaven",
